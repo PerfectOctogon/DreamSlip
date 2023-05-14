@@ -1,0 +1,26 @@
+Step 1 :
+1) Open chatter, see "awaiting transmission"
+2) Open monster dreams, click on the first step
+3) Watch cutscene, then see step name
+4) Open chatter, see new message with encrypted authenticator code
+5) Use decryptor to decrypt code
+6) Use authenticator to authenticate self --> Starts step 2
+
+Step 2 :
+1) Introduce the Door Monster as an "Active entity" vs a "Dormant entity"
+2) Introducing alternate being
+3) Player checks monster dreams to see alternate being cutscene
+4) Player checks chat to see information regarding summoning an alternate being at the right time
+5) Player uses summoner to summon alternate being right before the Door Monster enters the room (Proximity use advised)
+6) Alternate being condition monitored from monitoring application
+7) Player is taught how to manage consciousness
+8) Player lowers consciousness to keep the alternate being from fading away
+7) Chat provides context to what happened along with a new encrypted code
+8) Player uses decryptor to decrypt code
+9) Use authenticator to authenticate self --> Starts step 3
+
+Step 3 :
+1) Introduce the Bed Monster
+2) Player tasked to survive for a total of 150 seconds
+3) Player monitors health of alternate being
+
